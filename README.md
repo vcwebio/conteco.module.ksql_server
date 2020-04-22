@@ -1,13 +1,13 @@
 # `module.ksqldb` - ContEco
 
-An ksqlDB based module.
+An ksql based module.
 See `conteco.docs.overview` for more information on the ContEco ecosystem.
 
 ## Configuration
 
 The module consists of the following stacks:
-* ksqldb - ksqldb.base
-* rest_ksqldb - nginx.rewrite
+* ksql - ksql.base
+* rest_ksql - nginx.rewrite
 
 ## Tags
 

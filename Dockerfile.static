@@ -23,6 +23,6 @@ LABEL io.vcweb.type="module" \
       io.vcweb.base="image.wrapper" \
       io.vcweb.build="image" \
       io.vcweb.label="module.ksql_server - ContEco" \
-      io.vcweb.description="ksqlDB module with managed standard URL UI." \
+      io.vcweb.description="ksql Server module with managed standard URL UI." \
       io.vcweb.docker.cmd.help="docker run vcwebio/conteco.module.ksql_server --help"
 ##### END image/Dockerfile/env-labels-footer #####
